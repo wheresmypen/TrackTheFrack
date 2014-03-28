@@ -1,0 +1,84 @@
+body{
+}
+
+li{
+	color:green;
+}
+
+p{
+	float:none;
+	width: 15%;
+	background-color: ivory;
+}
+
+a{
+	float:none;
+}
+
+ul{
+	width: 25%;
+	background-color: ivory;
+}
+
+li{
+	width:100%;
+	float:left;
+}
+
+#submitHome{
+	margin:0px;
+	background-color:yellow;
+	width:260px;
+}
+
+#blue>li>a{
+	color:red;
+}
+
+.btn{
+	background-color:orange;
+	width:100%;
+}
+
+.dropdown-menu{
+	width:250px;
+}
+
+
+button{
+	width:225px;
+	float:none;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#dropdownMenuHome{
+	width:260px;
+}
+
+#dropdownMenuResources{
+	width:260px;
+}
+
+#dropdownMenuAboutUs{
+	width:260px;
+}
+
+#dropdownMenuLinks{
+	width:260px;
+}
+
+#dropdownMenuMaps{
+	width:260px;
+}
+
+.splash{
+	clear:left;
+	position:absolute;
+	left:0px;
+	top:90px;
+}
+
+.live{
+	width:150px;
+}

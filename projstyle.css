@@ -1,0 +1,48 @@
+p {
+	margin-left:20px; 
+	font-size: 80px;
+	color:rgb(112,0,0);
+	font-style: italic;
+	font-family: Georgia;
+}
+
+/*.btn-group-vertical{
+	vertical-align: center;
+}*/
+
+.splash{
+	top:85px;	
+}
+
+#submitHome{
+	background-color:yellow;
+}
+
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
+.hope{
+	height: 50px;
+}
+
+button{
+	float:left;
+	width:225px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+body {
+	background-image:url("sandrig.png");
+	background-repeat:no-repeat;
+	background-position: top;
+}
